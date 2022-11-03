@@ -1,0 +1,33 @@
+@font-face {
+    font-family: Mitra;
+    src: url("./fonts/Far_Mitra.ttf");
+}
+
+.mit {
+    font-family: Mitra;
+}
+
+.mybg {
+    background-image: url("./../images/pexels-karolina-grabowska-4475523.jpg");
+    background-repeat: no-repeat; background-size: cover;
+}
+
+
+
+.clrone {
+    background-color: rgba(32, 38, 42, 0.58);
+    color: white;
+    box-shadow:  0 4rem 6rem 0 rgba(0, 0, 0, 0.55), 0 4rem 6rem 0 rgba(0, 0, 0, 0.19);;
+
+
+}
+.clrtwo {
+    background-color: rgba(96, 108, 56, 0.42);
+    color: white;
+}
+.clrthree {
+    background-color: rgba(255, 255, 255, 0);
+
+
+
+}

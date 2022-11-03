@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MoneyManager/static/css/main.4a8d74c7.css",
+    "main.js": "/MoneyManager/static/js/main.4ab78a36.js",
+    "static/js/787.a72053f2.chunk.js": "/MoneyManager/static/js/787.a72053f2.chunk.js",
+    "index.html": "/MoneyManager/index.html",
+    "main.4a8d74c7.css.map": "/MoneyManager/static/css/main.4a8d74c7.css.map",
+    "main.4ab78a36.js.map": "/MoneyManager/static/js/main.4ab78a36.js.map",
+    "787.a72053f2.chunk.js.map": "/MoneyManager/static/js/787.a72053f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a8d74c7.css",
+    "static/js/main.4ab78a36.js"
+  ]
+}
